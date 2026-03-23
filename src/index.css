@@ -1,0 +1,8 @@
+@import Url("https://fonts.googleapis.com/css2?family=Trispace:wght@100..800&display=swap");
+@import "tailwindcss";
+
+@layer base {
+  html {
+    font-family: "Trispace", sans-serif;
+  }
+}
